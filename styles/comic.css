@@ -1,0 +1,19 @@
+.issue-nav {
+  border: 5px;
+  text-align: center;
+} 
+
+.issue-nav img {
+  width: 150px;
+}
+
+.page {
+  max-width: 100%;
+}
+
+table, th, td {
+  border: 1px solid;
+  border-collapse: separate;
+  border: blue solid 1px;
+  max-width: 100%;
+}
